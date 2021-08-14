@@ -1,3 +1,3 @@
 # trabalho-conjunto
 
-Este aplicativo foi desenvovido por Diego, Maicon e Ruan.
+Este aplicativo foi desenvovido por Diego correa silva, Maicon e Ruan.
